@@ -33,6 +33,13 @@
 28. [2743](https://www.urionlinejudge.com.br/judge/pt/problems/view/2743)
 29. [2745](https://www.urionlinejudge.com.br/judge/pt/problems/view/2745)
 30. [2746](https://www.urionlinejudge.com.br/judge/pt/problems/view/2746)
+31. [2994](https://www.beecrowd.com.br/judge/pt/problems/view/2994)
+32. [2744](https://www.beecrowd.com.br/judge/pt/problems/view/2744)
+33. [2993](https://www.beecrowd.com.br/judge/pt/problems/view/2993)
+34. [2990](https://www.beecrowd.com.br/judge/pt/problems/view/2990)
+35. [3001](https://www.beecrowd.com.br/judge/pt/problems/view/3001)
+36. [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739)
+37. [2737](https://www.beecrowd.com.br/judge/pt/problems/view/2737)
 
 
 
