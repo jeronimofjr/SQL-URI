@@ -40,7 +40,7 @@
 35. [3001](https://www.beecrowd.com.br/judge/pt/problems/view/3001)
 36. [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739)
 37. [2737](https://www.beecrowd.com.br/judge/pt/problems/view/2737)
-
+38. [2995](https://www.beecrowd.com.br/judge/pt/problems/view/2995)
 
 
 
